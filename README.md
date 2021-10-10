@@ -1,4 +1,4 @@
-# The-Framinghagm-Heart-Study
+# The-Framingham-Heart-Study
 This dataset comprises of predictors such as cholesterol, age, diabetes, and family history that are used to predict the onset of heart disease in a patient.
 
 KEY QUESTIONS
