@@ -1,4 +1,7 @@
 # The-Framingham-Heart-Study
+
+Predicting the Coronary heart disease (CHD) risk at 10 years using a Decision Tree Classifier algorithm.
+
 This dataset comprises of predictors such as cholesterol, age, diabetes, and family history that are used to predict the onset of heart disease in a patient.
 
 KEY QUESTIONS
